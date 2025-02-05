@@ -19,6 +19,7 @@ namespace Session1Demo
 
         static void Main(string[] args)
         {
+
             #region Implicitly - Type local variavle[var - dynamic]
             ////Implicitly - Type local variavle[var - dynamic]
 
